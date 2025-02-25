@@ -1,11 +1,11 @@
 disabled = false
-languageCode = "en"
-languageName = "English"
-weight = 2
+languageCode = "de"
+languageName = "Deutsch"
+weight = 1
 title = "Kristina & Hannes Hochzeitsparty"
 
 [params]
-displayName = "EN"
-isoCode = "en"
+displayName = "DE"
+isoCode = "de"
 rtl = false
 dateFormat = "2 January 2006"
