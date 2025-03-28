@@ -147,7 +147,12 @@
   </div>
   
   
-  <div style="padding-left:0;padding-right:0;padding-top:2px;padding-bottom:3px"
+  <div class="min-h-[148px]"></div>
+<div class="fixed inset-x-0 min-h-[130px] opacity-65 pl-[24px] pr-[24px] bg-gradient-to-b from-neutral from-60% dark:from-neutral-800 to-transparent mix-blend-normal" style="z-index:80"></div>
+<div class="fixed inset-x-0 pl-[24px] pr-[24px]" style="z-index:100">
+  <div id="menu-blur" class="absolute opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl shadow-2xl"></div>
+  <div class="relative max-w-[64rem] ml-auto mr-auto">
+    <div style="padding-left:0;padding-right:0;padding-top:2px;padding-bottom:3px"
     class="main-menu flex items-center justify-between px-4 py-6 sm:px-6 md:justify-start gap-x-3">
     
     
@@ -357,6 +362,16 @@
 
 
 
+  </div>
+</div>
+<script>
+  window.addEventListener('scroll', function (e) {
+    var scroll = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
+    var background_blur = document.getElementById('menu-blur');
+    background_blur.style.opacity = (scroll / 300);
+  });
+</script>
+
   
   <div class="relative flex flex-col grow">
     <main id="main-content" class="grow">
@@ -396,31 +411,8 @@
                     <div class="mt-3 mb-10 text-2xl">
                         
                     </div>
-                    <section class="prose dark:prose-invert">
-
-<h2 class="relative group">Hallo hier kommt der Haupttext rein.<br/> 
-    <div id="hallo-hier-kommt-der-haupttext-rein" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#hallo-hier-kommt-der-haupttext-rein" aria-label="Anker">#</a>
-    </span>        
-    
-</h2>
-
-
-<h2 class="relative group">Wir laden herzlich zu unserer Hochzeitsparty im Standard-Keller ein. 
-    <div id="wir-laden-herzlich-zu-unserer-hochzeitsparty-im-standard-keller-ein" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#wir-laden-herzlich-zu-unserer-hochzeitsparty-im-standard-keller-ein" aria-label="Anker">#</a>
-    </span>        
-    
-</h2>
-<p><br></br>
+                    <section class="prose dark:prose-invert"><p>WIP Infos folgen&hellip;.<br/>
+Wir laden herzlich zu unserer Hochzeitsparty im Standard-Keller ein.<br/>
 <br></br>
 <br></br>
 <br></br>
@@ -469,7 +461,7 @@
 <br></br>
 <br></br>
 <br></br>
-penis</p>
+gotcha</p>
 </section>
                 </div>
             </div>
