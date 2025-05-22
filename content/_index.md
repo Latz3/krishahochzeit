@@ -21,10 +21,11 @@ Snäcks knabbern und gute Geschichten wieder auspacken :)
 ![Surprised_Invitation_Card](images/surprised_card.png)
 
 - #### Was zieht man denn da an? <br/>
-Von Jogginghose bis A-Game kannst du alles anziehen, in dem **DU** dich wohlfühlst.<br/> *( und wir uns damit wohlfühlen )*
+Von Jogginghose bis A-Game, Fechtjacke bis Kettenhend kannst du alles anziehen, in dem **DU** dich wohlfühlst.<br/> *( Die Grenzen des guten Geschmacks sind jedoch einzuhalten )*
 
-- #### Schenkt man da was?<br/>
-Wir stellen abends eine Flitterwochen-Kasse auf, weil wir eh schon zu viel Gerümpel in der Wohnung stehen haben.<br/>
+- #### Soll ich ein Geschenk mitbringen?<br/>
+Für diejenigen unter euch die uns gerne was schenken wollen, stellen wir abends eine Flitterwochen-Kasse auf,<br/>
+weil wir eh schon zu viel Gerümpel in der Wohnung stehen haben.<br/>
 
 - #### Gibt's da was zu essen?<br/>
 Wie auf jeder guten Party gibts was zu knabbern und vielleicht auch was zu naschen :3
