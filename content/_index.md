@@ -32,8 +32,8 @@ Wie auf jeder guten Party gibts was zu knabbern und vielleicht auch was zu nasch
 
 - #### Ich kenn da ein tolles Hochzeitsspiel<br/>
 <!-- straight_to_jail.webm -->
-{{< youtubeLite id="eiyfwZVAzGw" label="Blowfish-tools demo" params="start=7&end=29&controls=0" >}}
-
+<!-- {{< youtubeLite id="eiyfwZVAzGw" label="Blowfish-tools demo" params="start=7&end=29&controls=0" >}} -->
+![RightToJail](images/right_to_jail.png)
 <br/>
 <br/>
 
